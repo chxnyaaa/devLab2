@@ -135,7 +135,7 @@ Hotkey list:
 | Right | → |
 
 
-Karanthaphong is here
+
 
 Emoji:
 
@@ -143,4 +143,4 @@ Emoji:
 Markup : [&#128511]
 
 652115002 krittayot
-
+Karanthaphong is here

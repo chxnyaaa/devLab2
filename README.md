@@ -134,4 +134,13 @@ Hotkey list:
 | Left | ← |
 | Right | → |
 
+
 Karanthaphong is here
+
+Emoji:
+
+&#128511;
+Markup : [&#128511]
+
+652115002 krittayot
+

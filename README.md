@@ -133,3 +133,10 @@ Hotkey list:
 | Down | ↓ |
 | Left | ← |
 | Right | → |
+
+Emoji:
+
+&#128511;
+Markup : [&#128511]
+
+652115002 krittayot

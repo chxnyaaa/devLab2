@@ -133,3 +133,5 @@ Hotkey list:
 | Down | ↓ |
 | Left | ← |
 | Right | → |
+
+Karanthaphong is here
